@@ -8,3 +8,5 @@ Change test_number in the last cell if necessary. It is for naming folders to st
 4. Run test.ipynb.
 Change test_num to 1 or 2 depending on phase.
 5. Remember to name the output files carefully, to not overwrite them.
+6. Result may not be exactly the same, due to random factors and change of parameters I was unable to recover.
+Still, it should give somewhere around 72% at least.
